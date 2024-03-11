@@ -1,6 +1,6 @@
 === Rating Review Stars Block ===
 Contributors:      PTechCode
-Tags:              block, blocks, star, review, stars, reviews, gutenberg blocks
+Tags:              block, blocks, star, review, gutenberg
 Tested up to:      6.4
 Stable tag:        0.1.0
 License:           GPL-3.0-or-later

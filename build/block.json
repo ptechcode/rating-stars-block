@@ -12,9 +12,7 @@
     "blocks",
     "star",
     "review",
-    "stars",
-    "reviews",
-    "gutenberg blocks"
+    "gutenberg"
   ],
   "attributes": {
     "noOfStars": {
