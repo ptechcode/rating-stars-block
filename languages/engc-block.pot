@@ -1,0 +1,104 @@
+# Copyright (C) 2024 PTechCode
+# This file is distributed under the GPL-3.0-or-later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Rating Stars Block 0.1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/rating-stars-block\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-03-11T15:14:28+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.9.0\n"
+"X-Domain: rating-stars-block\n"
+
+#. Plugin Name of the plugin
+msgid "Rating Stars Block"
+msgstr ""
+
+#. Description of the plugin
+msgid "A block to displaying stars, indicating the highest rating of satisfaction or quality, with a total up to ten stars."
+msgstr ""
+
+#. Author of the plugin
+msgid "PTechCode"
+msgstr ""
+
+#: build/index.js:90
+#: build/index.js:43
+msgid "General"
+msgstr ""
+
+#: build/index.js:92
+#: build/index.js:45
+msgid "No of stars"
+msgstr ""
+
+#: build/index.js:101
+#: build/index.js:54
+msgid "Rating Stars"
+msgstr ""
+
+#: build/index.js:110
+#: build/index.js:63
+msgid "Size"
+msgstr ""
+
+#: build/index.js:118
+#: build/index.js:119
+#: build/index.js:71
+#: build/index.js:73
+msgid "Stars Color"
+msgstr ""
+
+#: build/index.js:128
+#: build/index.js:82
+msgid "Stars Gap"
+msgstr ""
+
+#: build/index.js:137
+#: build/index.js:91
+msgid "Label"
+msgstr ""
+
+#: build/index.js:142
+#: build/index.js:96
+msgid "Label Color"
+msgstr ""
+
+#: build/index.js:151
+#: build/index.js:106
+msgid "Label Gap"
+msgstr ""
+
+#: build/block.json
+msgctxt "block title"
+msgid "Rating Stars Block"
+msgstr ""
+
+#: build/block.json
+msgctxt "block description"
+msgid "A block to displaying stars, indicating the highest rating of satisfaction or quality, with a total up to ten stars."
+msgstr ""
+
+#: build/block.json
+msgctxt "block keyword"
+msgid "star"
+msgstr ""
+
+#: build/block.json
+msgctxt "block keyword"
+msgid "review"
+msgstr ""
+
+#: build/block.json
+msgctxt "block keyword"
+msgid "stars"
+msgstr ""
+
+#: build/block.json
+msgctxt "block keyword"
+msgid "reviews"
+msgstr ""
