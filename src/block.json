@@ -7,7 +7,7 @@
 	"category": "widgets",
 	"icon": "star-empty",
 	"description": "A block to displaying stars, indicating the highest rating of satisfaction or quality, with a total up to ten stars.",
-	"keywords": [ "star", "review", "stars", "reviews" ],
+	"keywords": [ "block", "blocks", "star", "review", "stars", "reviews", "gutenberg blocks" ],
 	"attributes": {	
 		"noOfStars":{
 			"type": "number",
